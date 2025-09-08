@@ -5,6 +5,11 @@ Simulate battles between any two Pokémon and view the battle log in real-time.
 
 ---
 
+## 🔗 Project Source
+
+You can get the project from:  
+[https://github.com/CodeNinjaSarthak/pokemon-mcp-server](https://github.com/CodeNinjaSarthak/pokemon-mcp-server)
+
 ## 🖥️ Backend (FastAPI)
 
 ### Setup
